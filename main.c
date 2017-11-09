@@ -7,6 +7,7 @@
 #include<dirent.h>
 #include<unistd.h>
 
+void list(const char*);
 
 int main(int argc, char **argv)
 {
